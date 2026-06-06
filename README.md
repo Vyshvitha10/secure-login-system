@@ -1,4 +1,3 @@
-# secure-login-system
 # Secure Login System
 
 ## Overview
